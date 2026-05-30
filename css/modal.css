@@ -277,6 +277,7 @@
     margin: 0 auto;
 
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
 .modal-submit-btn:hover,
@@ -312,4 +313,8 @@
 .privacy-link {
     color: #4d5ae5;
     text-decoration: underline;
+}
+.subscribe-input {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: border-color 250ms ease;
 }
