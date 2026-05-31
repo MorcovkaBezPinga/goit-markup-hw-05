@@ -94,4 +94,15 @@
   <path fill="currentColor"
     d="M2 21l21-9L2 3v7l15 2-15 2z"/>
 </symbol>
+<symbol id="icon-phone" viewBox="0 0 32 32">
+  <path d="M..." />
+</symbol>
+
+<symbol id="icon-person" viewBox="0 0 32 32">
+  <path d="M..." />
+</symbol>
+
+<symbol id="icon-email" viewBox="0 0 32 32">
+  <path d="M..." />
+</symbol>
 </svg>
